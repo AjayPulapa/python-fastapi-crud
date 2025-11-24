@@ -17,6 +17,7 @@ Modular & scalable folder structure
 
 Pydantic v2 schemas
 
+```
 📁 Folder Structure
 python-crud/
 │
@@ -42,6 +43,7 @@ python-crud/
 ├── requirements.txt
 ├── venv/
 └── __pycache__/
+```
 
 🛠 1. Create Virtual Environment
 Windows
@@ -128,4 +130,5 @@ http://127.0.0.1:8000/redoc
 📌 Get All Users (GET /users/)
 📌 Get User By ID (GET /users/{id})
 📌 Update User (PUT /users/{id})
+
 📌 Delete User (DELETE /users/{id})
